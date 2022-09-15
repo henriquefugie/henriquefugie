@@ -1,4 +1,4 @@
-### Hi there 👋
+##Olá, meu nome é Henrique Fugie de Macedo e estou cursando Ciência da Computação no IFMG - Campus Formiga
 
 <!--
 **henriquefugie/henriquefugie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
