@@ -24,5 +24,7 @@
   ##
   <div> 
   <a href="https://discord.com/users/389481678369980416" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    
+      ![Snake animation](https://github.com/henriquefugie/henriquefugie/blob/output/github-contribution-grid-snake.svg)
 
   </div>
