@@ -5,8 +5,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquefugie&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquefugie&layout=compact&langs_count=6&theme=midnight-purple"/>
   <img align="left" alt="Fugix-gif1" width="150" height="150" src="https://cdn.discordapp.com/attachments/826668811045437450/1020111492303044699/123.gif"/>
-<img align="left" alt="Fugix-gif2" width="150" height="150" rc="https://cdn.discordapp.com/attachments/826668811045437450/1020105245365391460/download20220904195347.png"/>
+
 </div>
+   <img align="left" alt="Fugix-gif1" width="150" height="150" src="https://cdn.discordapp.com/attachments/826668811045437450/1020111492303044699/123.gif"/>
   <div style="display: inline_block"><br>
     
   <img align="center" alt="Fugix-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
@@ -32,4 +33,3 @@
     
  ![Snake animation](https://github.com/henriquefugie/henriquefugie/blob/output/github-contribution-grid-snake.svg)
   </div>
-  <img align="left" alt="Fugix-gif1" width="150" height="150" src="https://cdn.discordapp.com/attachments/826668811045437450/1020111492303044699/123.gif"/>
