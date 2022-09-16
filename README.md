@@ -18,7 +18,8 @@
   <img align="center" alt="Fugix-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Fugix-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     
-  <img align="right" alt="Fugix-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/826668811045437450/1020105245365391460/download20220904195347.png?width=676&height=676">
+  <img align="left" alt="Fugix-pic" height="150" src="https://user-images.githubusercontent.com/113394526/190814860-b9049c23-c4ac-455a-8e32-563fcd9dc07f.gif">
+
 </div>
   
   ##
